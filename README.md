@@ -9,7 +9,7 @@ Add those to local_manifests
 ```xml
   <!--Replace build system-->
   <remove-project name="LineageOS/android_build" />
-  <project path="build" name="aeorsyn/android_build" groups="pdk">
+  <project path="build" name="Aeorsyn/android_build" groups="pdk">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   
