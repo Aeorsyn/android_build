@@ -1,5 +1,7 @@
 ## Android Build System
 
+forked from kxzxxx/android_build just incase this method for 14.1 evet disapears in the future
+
 Use dx desuger toolchain instead of Jack & Jill
 
 Add those to local_manifests
