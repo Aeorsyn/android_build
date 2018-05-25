@@ -1,6 +1,6 @@
 ## Android Build System
 
-forked from kxzxxx/android_build just incase this method for 14.1 evet disapears in the future
+forked from kxzxxx/android_build just incase this method for building 14.1 on wsl ever disapears in the future
 
 Use dx desuger toolchain instead of Jack & Jill
 
